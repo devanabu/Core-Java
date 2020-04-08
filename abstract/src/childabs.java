@@ -2,7 +2,7 @@
 public class childabs extends abstractex {
 
 	public void display() {
-		System.out.println(" Hello abstract  Child");
+		System.out.println(" Hello abstract  Child, Testing");
 
 	}
 
@@ -14,7 +14,7 @@ public class childabs extends abstractex {
 
 	@Override
 	public void display(String s) {
-		// TODO Auto-generated method stub
+		System.out.println(" Display");
 		
 	}
 
