@@ -2,7 +2,7 @@
 public class childabs extends abstractex {
 
 	public void display() {
-		System.out.println(" Hello abstract  Child");
+		System.out.println(" Hello abstract  Child, Testing");
 
 	}
 
